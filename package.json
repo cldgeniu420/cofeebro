@@ -1,0 +1,8 @@
+{
+  "name": "coffeebro-netlify",
+  "version": "1.0.0",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
